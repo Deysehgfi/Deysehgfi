@@ -1,5 +1,8 @@
 Olá seres humanos!! 👋
 
+![316016656-88ab5803-1cd4-4168-97c8-45b017421936](https://github.com/Deysehgfi/Deysehgfi/assets/138785041/6f992aab-a75a-415d-bb65-c17d07802b15)
+
+
 <!--
 **Deysehgfi/Deysehgfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
