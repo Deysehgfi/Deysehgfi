@@ -1,11 +1,12 @@
 <h1>Olá seres humanos!! 👋</h1>
 <hr>
+<div display="flex">
+ <img width="30px" heigth="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+ <img width="30px" heigth="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+ <img width="30px" heigth="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img width="30px" heigth="30px" src="https://github.com/Deysehgfi/Deysehgfi/assets/138785041/c112f08f-6e38-49d2-a2ae-6ebb7f1a1c96" />
+</div>
 
-<img width="30px" heigth="30px" src="https://github.com/Deysehgfi/Deysehgfi/assets/138785041/c112f08f-6e38-49d2-a2ae-6ebb7f1a1c96" />
-<img width="30px" heigth="30px" src="https://github.com/Deysehgfi/Deysehgfi/assets/138785041/c112f08f-6e38-49d2-a2ae-6ebb7f1a1c96" />
-<img width="30px" heigth="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-
-<img width="30px" heigth="30px" src="https://github.com/Deysehgfi/Deysehgfi/assets/138785041/c112f08f-6e38-49d2-a2ae-6ebb7f1a1c96" />
 
 
 
