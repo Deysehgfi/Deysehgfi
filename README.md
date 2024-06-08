@@ -1,8 +1,8 @@
 <h1>Olá seres humanos!! 👋</h1>
 <hr>
 
-<img width="20px" heigth="20px" src="https://github.com/Deysehgfi/Deysehgfi/assets/138785041/c112f08f-6e38-49d2-a2ae-6ebb7f1a1c96" />
-![react-imag](https://github.com/Deysehgfi/Deysehgfi/assets/138785041/c112f08f-6e38-49d2-a2ae-6ebb7f1a1c96)<sty
+<img width="30px" heigth="30px" src="https://github.com/Deysehgfi/Deysehgfi/assets/138785041/c112f08f-6e38-49d2-a2ae-6ebb7f1a1c96" />
+
 
 
 <!-- ▶︎•၊၊||၊|။||||||။၊|။•
