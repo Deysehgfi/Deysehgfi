@@ -7,8 +7,8 @@
  <img width="30px" heigth="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img width="30px" heigth="30px" src="https://github.com/Deysehgfi/Deysehgfi/assets/138785041/c112f08f-6e38-49d2-a2ae-6ebb7f1a1c96" />
 </div>
-![picmix com_2013125](https://github.com/user-attachments/assets/7ccffb27-0589-47db-8cfd-d795f7981ec9)
 
+![picmix com_2013125](https://github.com/user-attachments/assets/223f9668-29b7-40e2-825d-9f0a1331954f)
 
 
 <!-- <video src="https://jp.pinterest.com/pin/712342866081363686/"></video>
