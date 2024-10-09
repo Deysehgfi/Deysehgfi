@@ -8,7 +8,7 @@
 <img width="30px" heigth="30px" src="https://github.com/Deysehgfi/Deysehgfi/assets/138785041/c112f08f-6e38-49d2-a2ae-6ebb7f1a1c96" />
 </div>
 
-<img width="30px" heigth="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjp.pinterest.com%2Fpin%2F712342866081363686%2F&psig=AOvVaw0iSPH1irUtg8BdcwuNMiOc&ust=1728565387771000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMi8sYiugYkDFQAAAAAdAAAAABAU" />
+<img width="30px" heigth="30px" src="https://jp.pinterest.com/pin/712342866081363686/" />
 
 <!-- ▶︎•၊၊||၊|။||||||။၊|။•
  -->
