@@ -7,8 +7,8 @@
  <img width="30px" heigth="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img width="30px" heigth="30px" src="https://github.com/Deysehgfi/Deysehgfi/assets/138785041/c112f08f-6e38-49d2-a2ae-6ebb7f1a1c96" />
 </div>
-<video src="https://jp.pinterest.com/pin/712342866081363686/"></video>
-<video width="30px" heigth="30px" src="https://jp.pinterest.com/pin/712342866081363686/" />
+<!-- <video src="https://jp.pinterest.com/pin/712342866081363686/"></video>
+<video width="30px" heigth="30px" src="https://jp.pinterest.com/pin/712342866081363686/" /> -->
 
 <!-- ▶︎•၊၊||၊|။||||||။၊|။•
  -->
